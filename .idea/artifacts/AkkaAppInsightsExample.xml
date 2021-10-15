@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="AkkaAppInsightsExample">
+    <output-path>$PROJECT_DIR$/out/artifacts/AkkaAppInsightsExample</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="typesafe.akka.http_2.12" />
+        <element id="library" level="project" name="typesafe.akka.actor_2.12" />
+        <element id="library" level="project" name="typesafe.akka.stream_2.12" />
+        <element id="library" level="application" name="scala-sdk-2.12.14" />
+      </element>
+      <element id="archive" name="akkaappinsightsexample.jar">
+        <element id="module-output" name="AkkaAppInsightsExample" />
+      </element>
+    </root>
+  </artifact>
+</component>

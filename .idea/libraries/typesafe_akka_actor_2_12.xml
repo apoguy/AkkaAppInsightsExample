@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="typesafe.akka.actor_2.12" type="repository">
+    <properties maven-id="com.typesafe.akka:akka-actor_2.12:2.6.16" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.12/2.6.16/akka-actor_2.12-2.6.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.14/scala-library-2.12.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.4.0/config-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

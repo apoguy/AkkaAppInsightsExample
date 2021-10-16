@@ -11,5 +11,7 @@
     <orderEntry type="library" name="typesafe.akka.http_2.12" level="project" />
     <orderEntry type="library" name="typesafe.akka.actor_2.12" level="project" />
     <orderEntry type="library" name="typesafe.akka.stream_2.12" level="project" />
+    <orderEntry type="library" name="azure.core" level="project" />
+    <orderEntry type="library" name="azure.messaging.servicebus" level="project" />
   </component>
 </module>

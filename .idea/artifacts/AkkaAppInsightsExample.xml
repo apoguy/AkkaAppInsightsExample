@@ -7,6 +7,8 @@
         <element id="library" level="project" name="typesafe.akka.actor_2.12" />
         <element id="library" level="project" name="typesafe.akka.stream_2.12" />
         <element id="library" level="application" name="scala-sdk-2.12.14" />
+        <element id="library" level="project" name="azure.core" />
+        <element id="library" level="project" name="azure.messaging.servicebus" />
       </element>
       <element id="archive" name="akkaappinsightsexample.jar">
         <element id="module-output" name="AkkaAppInsightsExample" />
